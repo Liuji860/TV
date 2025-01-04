@@ -1,10 +1,10 @@
 {
   "sites": [
     {
-      "key": "暴风❀点播",
-      "name": "暴风❀点播",
+      "key": "TV点播",
+      "name": "TV点播",
       "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "api": "https://www.heimuer.tv/api.php/provide/vod/",
       "playUrl": "",
       "categories": [
         "国产剧",
