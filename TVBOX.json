@@ -99,5 +99,173 @@
         "爽文短剧"
       ]
     }
+    ,
+    {
+        "key": "heimu",
+        "name": "heimu",
+        "type": 1,
+        "api": "https://www.heimuer.tv/api.php/provide/vod/",
+        "searchable": 1,
+        "changeable": 1,
+        "categories": [
+          "国产剧",
+          "动画电影",
+          "网络电影",
+          "动作",
+          "冒险",
+          "爱情",
+          "逆袭",
+          "穿越",
+          "重生",
+          "港剧",
+          "泰剧",
+          "日剧",
+          "欧美剧",
+          "国产综艺",
+          "韩国综艺",
+          "日本综艺",
+          "欧美综艺"
+        ]
+      }
+      ,
+      {
+          "key": "haiwai",
+          "name": "haiwai",
+          "type": 1,
+          "api": "https://hw8.live/api.php/provide/vod/",
+          "searchable": 1,
+          "changeable": 1,
+          "categories": [
+            "国产剧",
+            "动画电影",
+            "网络电影",
+            "动作",
+            "冒险",
+            "爱情",
+            "逆袭",
+            "穿越",
+            "重生",
+            "港剧",
+            "泰剧",
+            "日剧",
+            "欧美剧",
+            "国产综艺",
+            "韩国综艺",
+            "日本综艺",
+            "欧美综艺"
+          ]
+        }
+        ,
+        {
+            "key": "feitian",
+            "name": "feitian",
+            "type": 1,
+            "api": "https://www.feisuzyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+              "国产剧",
+              "动画电影",
+              "网络电影",
+              "动作",
+              "冒险",
+              "爱情",
+              "逆袭",
+              "穿越",
+              "重生",
+              "港剧",
+              "泰剧",
+              "日剧",
+              "欧美剧",
+              "国产综艺",
+              "韩国综艺",
+              "日本综艺",
+              "欧美综艺"
+            ]
+          }
+          ,
+          {
+              "key": "tianyi",
+              "name": "tianyi",
+              "type": 1,
+              "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
+              "searchable": 1,
+              "changeable": 1,
+              "categories": [
+                "国产剧",
+                "动画电影",
+                "网络电影",
+                "动作",
+                "冒险",
+                "爱情",
+                "逆袭",
+                "穿越",
+                "重生",
+                "港剧",
+                "泰剧",
+                "日剧",
+                "欧美剧",
+                "国产综艺",
+                "韩国综艺",
+                "日本综艺",
+                "欧美综艺"
+              ]
+            }
+            ,
+            {
+                "key": "modu",
+                "name": "modu",
+                "type": 1,
+                "api": "https://caiji.moduapi.cc/api.php/provide/vod/",
+                "searchable": 1,
+                "changeable": 1,
+                "categories": [
+                  "国产剧",
+                  "动画电影",
+                  "网络电影",
+                  "动作",
+                  "冒险",
+                  "爱情",
+                  "逆袭",
+                  "穿越",
+                  "重生",
+                  "港剧",
+                  "泰剧",
+                  "日剧",
+                  "欧美剧",
+                  "国产综艺",
+                  "韩国综艺",
+                  "日本综艺",
+                  "欧美综艺"
+                ]
+              }
+              ,
+              {
+                  "key": "zuida",
+                  "name": "zuida",
+                  "type": 1,
+                  "api": "https://api.zuidapi.com/api.php/provide/vod/",
+                  "searchable": 1,
+                  "changeable": 1,
+                  "categories": [
+                    "国产剧",
+                    "动画电影",
+                    "网络电影",
+                    "动作",
+                    "冒险",
+                    "爱情",
+                    "逆袭",
+                    "穿越",
+                    "重生",
+                    "港剧",
+                    "泰剧",
+                    "日剧",
+                    "欧美剧",
+                    "国产综艺",
+                    "韩国综艺",
+                    "日本综艺",
+                    "欧美综艺"
+                  ]
+                }
   ]
 }
