@@ -9,21 +9,19 @@
       "quickSearch": 1
     },
     {
-      "key": "黑木1",
-      "name": "黑木1",
+      "key": "海内",
+      "name": "海内",
       "type": 1,
-      "api": "https://www.heimuer.tv/api.php/provide/vod/",
+      "api": "https://json02.heimuer.xyz/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
         "国产剧",
-        "韩剧",
         "动画电影",
         "网络电影",
         "动作",
         "冒险",
         "爱情",
-        "虐恋",
         "逆袭",
         "穿越",
         "重生",
@@ -38,81 +36,19 @@
       ]
     },
     {
-        "key": "黑木2",
-        "name": "黑木2",
-        "type": 1,
-        "api": "https://json02.heimuer.xyz/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "categories": [
-          "国产剧",
-          "韩剧",
-          "动画电影",
-          "网络电影",
-          "动作",
-          "冒险",
-          "爱情",
-          "虐恋",
-          "逆袭",
-          "穿越",
-          "重生",
-          "港剧",
-          "泰剧",
-          "日剧",
-          "欧美剧",
-          "国产综艺",
-          "韩国综艺",
-          "日本综艺",
-          "欧美综艺"
-        ]
-      }
-    ,
-    {
-        "key": "黑木3",
-        "name": "黑木3",
+        "key": "海外",
+        "name": "海外",
         "type": 1,
         "api": "https://json.heimuer.xyz/api.php/provide/vod/",
         "searchable": 1,
         "quickSearch": 1,
         "categories": [
           "国产剧",
-          "韩剧",
           "动画电影",
           "网络电影",
           "动作",
           "冒险",
           "爱情",
-          "虐恋",
-          "逆袭",
-          "穿越",
-          "重生",
-          "港剧",
-          "泰剧",
-          "日剧",
-          "欧美剧",
-          "国产综艺",
-          "韩国综艺",
-          "日本综艺",
-          "欧美综艺"
-        ]
-      }
-    ,
-    {
-        "key": "黑木4",
-        "name": "黑木4",
-        "type": 1,
-        "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "categories": [
-          "国产剧",
-          "韩剧",
-          "动画电影",
-          "网络电影",
-          "动作",
-          "冒险",
-          "爱情",
-          "虐恋",
           "逆袭",
           "穿越",
           "重生",
@@ -128,7 +64,7 @@
       },
     {
       "key": "爱坤",
-      "name": "爱坤┃秒播┃采集",
+      "name": "爱坤",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod?",
       "searchable": 1,
@@ -162,38 +98,6 @@
         "日韩动漫",
         "爽文短剧"
       ]
-    },
-    {
-      "key": "cctv",
-      "name": "📺央视｜大全",
-      "type": 3,
-      "api": "csp_CCTV",
-      "searchable": 0,
-      "filterable": 0,
-      "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar",
-      "ext": "http://rihou.vip:88/hccx/央视大全.json"
-    },
-    {
-      "key": "央视经典",
-      "name": "📺央视｜经典",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar",
-      "ext": "http://rihou.vip:88/hccx/哔哩经典.json"
-    },
-    {
-      "key": "csp_XYQHikerAL_多多",
-      "name": "V信65267199",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "jar": "./lib/dongchen.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/duoduo.json"
     }
   ]
 }
