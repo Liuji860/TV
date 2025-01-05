@@ -96,7 +96,7 @@
         "key": "heimu",
         "name": "heimu",
         "type": 1,
-        "api": "https://www.heimuer.tv/api.php/provide/vod/",
+        "api": "https://www.heimuer.tv/api.php/provide/vod/?ac=list",
         "searchable": 1,
         "changeable": 1,
         "categories": [
