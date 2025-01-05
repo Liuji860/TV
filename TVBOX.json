@@ -103,7 +103,7 @@
     {
         "key": "heimu",
         "name": "heimu",
-        "type": 2,
+        "type": 3,
         "api": "https://www.heimuer.tv/api.php/provide/vod/",
         "searchable": 1,
         "changeable": 1,
