@@ -105,8 +105,8 @@
         "name": "heimu",
         "type": 1,
         "api": "https://www.heimuer.tv/api.php/provide/vod/",
-        //"searchable": 1,
-        //"changeable": 1,
+        "searchable": 1,
+        "changeable": 1,
         "categories": [
           "国产剧",
           "动画电影",
